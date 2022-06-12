@@ -33,6 +33,6 @@
   </a>
 </p>
 
-<p style="background-color: #232E59; color:#D5C264">&nbsp;<img align="center" style="background-color: #232E59; color:#D5C264" src="https://github-readme-stats.vercel.app/api?username=numulaa&show_icons=true&locale=en" alt="numulaa" /></p>
+<p align="center" style="background-color: #232E59; color:#D5C264">&nbsp;<img align="center" style="background-color: #232E59; color:#D5C264" src="https://github-readme-stats.vercel.app/api?username=numulaa&show_icons=true&locale=en" alt="numulaa" /></p>
 
-<p style="background-color: #232E59; color:#D5C264"><img align="center" style="background-color: #232E59; color:#D5C264" src="https://github-readme-streak-stats.herokuapp.com/?user=numulaa&" alt="numulaa" /></p>
+<p align="center" style="background-color: #232E59; color:#D5C264"><img align="center" style="background-color: #232E59; color:#D5C264" src="https://github-readme-streak-stats.herokuapp.com/?user=numulaa&" alt="numulaa" /></p>
