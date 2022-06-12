@@ -1,6 +1,6 @@
 
 <img src="images/header.png"></img>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFDWxQ-kUg&#x2F;view?utm_content=DAFDWxQ-kUg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">NURUL MUKHLISA</a> oleh nurul mukhlisa
+
 <h1 align="center">Hi 👋, I'm Nurul Mukhlisa</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 - 🌍 I'm based in Indonesia
