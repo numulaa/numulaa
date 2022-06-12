@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
-<img src="https://www.canva.com/design/DAFDWxQ-kUg/view"></img>
+<img src="[https://www.canva.com/design/DAFDWxQ-kUg/view](https://www.canva.com/design/DAFDWxQ-kUg/hA39iWgEzuITZAkAlo3hLg/watch?utm_content=DAFDWxQ-kUg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"></img>
  
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFDWxQ-kUg&#x2F;view?utm_content=DAFDWxQ-kUg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">NURUL MUKHLISA</a> oleh nurul mukhlisa
