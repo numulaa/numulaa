@@ -34,7 +34,7 @@
 </p>
 </div>
 <div align="center">
-  <img src="https://www.codewars.com/users/numulaa/badges/large" alt="codewars-badge">
+  <img src="https://www.codewars.com/users/numulaa_/badges/large" alt="codewars-badge">
 </div>
 <p align="center" style="background-color: #232E59; color:#D5C264">&nbsp;<img align="center" style="background-color: #232E59; color:#D5C264" src="https://github-readme-stats.vercel.app/api?username=numulaa&show_icons=true&locale=en&title_color=F8F9D7&text_color=F8F9D7&icon_color=B2C8DF&bg_color=6E85B7&hide_border=true&show_icons=true" alt="numulaa" /></p>
 
