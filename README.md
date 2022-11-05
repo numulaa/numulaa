@@ -1,5 +1,5 @@
 
-<img src="images/header.png"></img>
+<img src="images/socmed-banner.png"></img>
 
 <h1 align="center">Hi 👋, I'm Nurul Mukhlisa</h1>
 <h3 align="center">Fullstack Web Developer</h3>
