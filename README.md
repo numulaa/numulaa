@@ -42,8 +42,8 @@
     <td width="50%" valign="top">
       <h3 align="center">COMING SOON</h3>
         <br />
-        <a target="_blank" href="#">
-            <img src="#" width="100%" alt="Space Observatory app"/>
+        <a target="_blank" href="https://numulaa.github.io/Quran-of-The-Day/">
+            <img src="images/quran-of-the-day" width="100%" alt="Space Observatory app"/>
         </a>
         <br />
         <p align="center">
