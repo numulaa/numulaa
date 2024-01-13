@@ -77,18 +77,18 @@
   </tr>
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center"Codewars Challenges</h3>
+      <h3 align="center"Harry Potter Info Page & Game</h3>
         <br />
-        <a target="_blank" href="https://github.com/Pressedj/Codewars">
-          <img src="images/codewars.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="#">
+          <img src="images/harry-potter-info.gif" width="100%" alt="Harry Potter Info Page & Game GIF"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Pressedj/Codewars" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-        <p>Codewars Challenges</p>
+        <p>Harry Potter Info Page & Game</p>
     </td>
 	<td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
