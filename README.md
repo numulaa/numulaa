@@ -6,20 +6,16 @@
 <div align="center">
 	<p align="center">
  <a href="https://nurulm.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXElEQVR4nO1aTWsUQRCtEj0ofhzFu/4BP/DjoBfBo4jmLij5B0bRg4J4MSwGooJg/AFeRfC20a2aiMwxm4DZqg2BKCgIntxDQktvQkQTw7jOTPfs1IN3nJlXr6erq4sCMBgMW8K5HdDqHIOkewlYRytJrz1ZPNqPJTNSOYCsD5DkM7K64aB8QpL78P7j/u2D54UzwxX4ZiOAuqe3Dj7Rc8jaCy+ycPaA9ezvwb9dPISsXyMQVxa/wIwc3IgfSZ5FIKpsPl2Lvjm7F1l+RCCobPaA5veBPyoiEBOEQHoRgPVmjQ244ff/eGghwUgyDsjayPjAEpK+rAS91mwxNf7BAHkIFYHXagaw/QHOtgBbDnCWBNlOAWfHIFsd4KwQYqsEnZXCbHcBZ5chttugs+swWz/AWUOErSPkrCXG1hNsWFMUrSus2driJG8g0ZEq0GstoCusw8iGGYD2B6htAQy/Fy0HYKgkCCz3IliJIATSu35CZLS+Bsh1gGThcG0NmOkcWR8o0DS0mNJJ+uHXSAXrhdqtfiLn/xgr0cn6rL482jxY02zuRNIXwcUVz+c+1r9PGLXkWn+8PLzQnCnLQN2r2cas0uU9a9dKnUKS6fUkOQDzGMHtv2Ow73vtpFPAcgWSpd1QNpClnYMBbagqsLYGtLqnkGQCSb//twH+HSQT8E5PQiXAcgtJVnNPYiSrQDoGUYPlBLKsFJjJV4A6xyFWYCmT5xHPLCPpk8INIH0M0SLRkaINAJLLEC2cQ2R9XeDqv/LfgKiRpruA5A6SzCHLt5zYBpLb29fwBhgEPwFf/RoppyBh9gAAAABJRU5ErkJggg==&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/-Portfolio-29293d?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXElEQVR4nO1aTWsUQRCtEj0ofhzFu/4BP/DjoBfBo4jmLij5B0bRg4J4MSwGooJg/AFeRfC20a2aiMwxm4DZqg2BKCgIntxDQktvQkQTw7jOTPfs1IN3nJlXr6erq4sCMBgMW8K5HdDqHIOkewlYRytJrz1ZPNqPJTNSOYCsD5DkM7K64aB8QpL78P7j/u2D54UzwxX4ZiOAuqe3Dj7Rc8jaCy+ycPaA9ezvwb9dPISsXyMQVxa/wIwc3IgfSZ5FIKpsPl2Lvjm7F1l+RCCobPaA5veBPyoiEBOEQHoRgPVmjQ244ff/eGghwUgyDsjayPjAEpK+rAS91mwxNf7BAHkIFYHXagaw/QHOtgBbDnCWBNlOAWfHIFsd4KwQYqsEnZXCbHcBZ5chttugs+swWz/AWUOErSPkrCXG1hNsWFMUrSus2driJG8g0ZEq0GstoCusw8iGGYD2B6htAQy/Fy0HYKgkCCz3IliJIATSu35CZLS+Bsh1gGThcG0NmOkcWR8o0DS0mNJJ+uHXSAXrhdqtfiLn/xgr0cn6rL482jxY02zuRNIXwcUVz+c+1r9PGLXkWn+8PLzQnCnLQN2r2cas0uU9a9dKnUKS6fUkOQDzGMHtv2Ow73vtpFPAcgWSpd1QNpClnYMBbagqsLYGtLqnkGQCSb//twH+HSQT8E5PQiXAcgtJVnNPYiSrQDoGUYPlBLKsFJjJV4A6xyFWYCmT5xHPLCPpk8INIH0M0SLRkaINAJLLEC2cQ2R9XeDqv/LfgKiRpruA5A6SzCHLt5zYBpLb29fwBhgEPwFf/RoppyBh9gAAAABJRU5ErkJggg==&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Portfolio-784486?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXElEQVR4nO1aTWsUQRCtEj0ofhzFu/4BP/DjoBfBo4jmLij5B0bRg4J4MSwGooJg/AFeRfC20a2aiMwxm4DZqg2BKCgIntxDQktvQkQTw7jOTPfs1IN3nJlXr6erq4sCMBgMW8K5HdDqHIOkewlYRytJrz1ZPNqPJTNSOYCsD5DkM7K64aB8QpL78P7j/u2D54UzwxX4ZiOAuqe3Dj7Rc8jaCy+ycPaA9ezvwb9dPISsXyMQVxa/wIwc3IgfSZ5FIKpsPl2Lvjm7F1l+RCCobPaA5veBPyoiEBOEQHoRgPVmjQ244ff/eGghwUgyDsjayPjAEpK+rAS91mwxNf7BAHkIFYHXagaw/QHOtgBbDnCWBNlOAWfHIFsd4KwQYqsEnZXCbHcBZ5chttugs+swWz/AWUOErSPkrCXG1hNsWFMUrSus2driJG8g0ZEq0GstoCusw8iGGYD2B6htAQy/Fy0HYKgkCCz3IliJIATSu35CZLS+Bsh1gGThcG0NmOkcWR8o0DS0mNJJ+uHXSAXrhdqtfiLn/xgr0cn6rL482jxY02zuRNIXwcUVz+c+1r9PGLXkWn+8PLzQnCnLQN2r2cas0uU9a9dKnUKS6fUkOQDzGMHtv2Ow73vtpFPAcgWSpd1QNpClnYMBbagqsLYGtLqnkGQCSb//twH+HSQT8E5PQiXAcgtJVnNPYiSrQDoGUYPlBLKsFJjJV4A6xyFWYCmT5xHPLCPpk8INIH0M0SLRkaINAJLLEC2cQ2R9XeDqv/LfgKiRpruA5A6SzCHLt5zYBpLb29fwBhgEPwFf/RoppyBh9gAAAABJRU5ErkJggg==&style=for-the-badge"/>
     </a>
  <a href="https://twitter.com/numulaa_" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/-Twitter-29293d?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Twitter-784486?logo=twitter&logoColor=01C5DE&style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/nurulmuklisa-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/-Linkedin-black?logo=linkedin&logoColor=01C5DE&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/-Linkedin-29293d?logo=linkedin&logoColor=01C5DE&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Linkedin-784486?logo=linkedin&logoColor=01C5DE&style=for-the-badge"/>
     </a>
     <a href="mailto:nurulm.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-black?logo=gmail&logoColor=01C5DE&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/-Email-29293d?logo=gmail&logoColor=01C5DE&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Email-784486?logo=gmail&logoColor=01C5DE&style=for-the-badge"/>
     </a>
 	</p></div>
 - 🌱 I’m currently learning **MERN**
