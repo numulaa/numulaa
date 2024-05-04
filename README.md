@@ -1,7 +1,8 @@
 
 <img src="images/socmed-banner.png"></img>
 
-<h1 align="center">Hi 👋, I'm Nurul Mukhlisa</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=01C5DE&vCenter=true&center=true&width=460&lines=NURUL MUKHLISA;SOFTWARE+DEVELOPER;✨DREAMER✨"</h1>
 <h3 align="center">Fullstack Web Developer based in Indonesia</h3>
 <div align="center">
 	<p align="center">
