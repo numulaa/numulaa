@@ -39,8 +39,8 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />  
 <img src="https://img.shields.io/badge/mongoDB-test?style=for-the-badge&logo=mongodb&color=gray" alt="MongoDB" height="30" />  
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" alt="Git" height="30" /> 
-<img src="https://img.shields.io/badge/figma-784486.svg?style=for-the-badge&logo=figma&logoColor=white)" alt="Figma" height="30" /> 
-	<img src="https://img.shields.io/badge/firebase-AFA196.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" height="30" />  
+<img src="https://img.shields.io/badge/figma-B99FE8.svg?style=for-the-badge&logo=figma&logoColor=white)" alt="Figma" height="30" /> 
+	<img src="https://img.shields.io/badge/firebase-FFB34F.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" height="30" />  
 </div>
 
 </div>
