@@ -25,7 +25,7 @@
 - 🌏 I am based in Indonesia
 - 🌱 I’m currently playing around with React and Firebase
 - 📫 How to reach me **nurulm.dev@gmail.com**
-- ⚡ Fun fact **I love drinking matcha latte while coding**
+- ⚡ Fun fact I love [..., archery, shooting, gardening, baking, fishing] **I love drinking matcha latte while coding**
 
 <h3 align="center">Languages and Tools:</h3>
 
