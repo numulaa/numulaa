@@ -145,6 +145,7 @@
 <div align="center">
   <img src="https://www.codewars.com/users/numulaa_/badges/large" alt="codewars-badge">
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numulaa&show_icons=true&locale=en&layout=compact" alt="numulaa's most used languages" /></p>
 
 
 
