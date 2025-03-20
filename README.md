@@ -1,5 +1,5 @@
 
-<img src="images/socmed-banner.png"></img>
+<img src="images/linkedin-banner-scalable.png"></img>
 
 <h1 align="center">
    Hi, I am Nurul Mukhlisa
